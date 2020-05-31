@@ -2,3 +2,7 @@
 */.ipynb*
 *Untitled*
 
+*/.idea*
+*/app-logs*
+*__pycache__*
+
