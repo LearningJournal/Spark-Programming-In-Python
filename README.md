@@ -6,7 +6,7 @@ This is the central repository for all the materials related to <em>Apache Spark
 
 <div>
 <a href="https://www.udemy.com/course/draft/3184584/?referralCode=77E18B4F800479A263D5">
-<img src="https://www.learningjournal.guru/_resources/img/jpg-5x/spark-beginners-python-course.jpg" alt="Apache Spark 3 - Spark Programming in Python for Beginners" width="300" align="left"> 
+<img src="https://www.learningjournal.guru/_resources/img/jpg-5x/spark-beginners-course.jpg" alt="Apache Spark 3 - Spark Programming in Python for Beginners" width="300" align="left"> 
 </a>
 
 <h2> Description </h2>
