@@ -1,6 +1,6 @@
 import sys
 
-from pyspark import SparkConf, SparkContext
+from pyspark import SparkConf
 from collections import namedtuple
 
 from pyspark.sql import SparkSession
