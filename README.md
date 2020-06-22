@@ -19,7 +19,7 @@ This is the central repository for all the materials related to <em>Apache Spark
 I designed this course for software engineers willing to develop a Data Engineering pipeline and application using the Apache Spark. I am also creating this course for data architects and data engineers who are responsible for designing and building the organization’s data-centric infrastructure. Another group of people is the managers and architects who do not directly work with Spark implementation. Still, they work with the people who implement Apache Spark at the ground level.
 </p>
 
-<h3>Kafka and source code version</h3>
+<h3>Spark and source code version</h3>
 <p align="justify">
 This Course is using the Apache Spark 3.x. I have tested all the source code and examples used in this Course on Apache Spark 3.0.0 open-source distribution.
 </p>
