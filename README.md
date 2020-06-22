@@ -14,7 +14,7 @@ This is the central repository for all the materials related to <em>Apache Spark
   I am creating <em>Apache Spark 3 - Spark Programming in Python for Beginners </em>course to help you understand the Spark programming and apply that knowledge to build data engineering solutions. This course is example-driven and follows a working session like approach. We will be taking a live coding approach and explain all the needed concepts along the way.
 </p>
 
-<h3><br>Who should take this Course?</h3>
+<h3>Who should take this Course?</h3>
 <p align="justify">
 I designed this course for software engineers willing to develop a Data Engineering pipeline and application using the Apache Spark. I am also creating this course for data architects and data engineers who are responsible for designing and building the organization’s data-centric infrastructure. Another group of people is the managers and architects who do not directly work with Spark implementation. Still, they work with the people who implement Apache Spark at the ground level.
 </p>
