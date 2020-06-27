@@ -6,3 +6,6 @@
 */app-logs*
 *__pycache__*
 
+*.crc
+*.parquet
+*/*/_SUCCESS
