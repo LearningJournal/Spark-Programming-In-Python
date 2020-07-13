@@ -19,5 +19,5 @@ if __name__ == "__main__":
     join_expr = flight_time_df1.id == flight_time_df2.id
     join_df = flight_time_df1.join(flight_time_df2, join_expr, "inner")
 
-    join_df.foreach(lambda f: None)
+    join_df.collect()
     input("press a key to stop...")
