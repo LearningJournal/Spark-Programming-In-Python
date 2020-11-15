@@ -2,7 +2,7 @@ from pyspark.sql import *
 from pyspark.sql.functions import *
 from pyspark.sql.types import *
 
-from lib.logger import Log4j
+##from lib.logger import Log4j
 
 
 def to_date_df(df, fmt, fld):
@@ -16,7 +16,7 @@ if __name__ == "__main__":
         .appName("RowDemo") \
         .getOrCreate()
 
-    logger = Log4j(spark)
+    ##logger = Log4j(spark)
 
     my_schema = StructType([
         StructField("ID", StringType()),
