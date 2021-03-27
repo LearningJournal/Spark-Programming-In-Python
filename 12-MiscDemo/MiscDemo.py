@@ -32,6 +32,7 @@ if __name__ == "__main__":
         .withColumn("dob", expr("to_date(concat(day,'/',month,'/',year), 'd/M/y')")) \
         .drop("day", "month", "year") \
         .dropDuplicates(["name", "dob"]) \
-        .sort(expr("dob desc"))
+        # .sort(expr("dob desc")) This doesn't seem to be working
+        .sort(col("dob").desc())
 
     final_df.show()
