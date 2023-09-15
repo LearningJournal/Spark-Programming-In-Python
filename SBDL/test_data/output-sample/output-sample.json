@@ -1,0 +1,112 @@
+{
+    "eventHeader": {
+        "eventIdentifier": "38d57237-a566-4ec4-a471-f659e9ce8437",
+        "eventType": "SBDL-Contract",
+        "majorSchemaVersion": 1,
+        "minorSchemaVersion": 0,
+        "eventDateTime": "2022-09-06T20:49:03+0530"
+    },
+    "keys": [
+        {
+            "keyField": "contractIdentifier",
+            "keyValue": "6982391067"
+        }
+    ],
+    "payload": {
+        "contractIdentifier": {
+            "operation": "INSERT",
+            "newValue": "6982391067"
+        },
+        "sourceSystemIdentifier": {
+            "operation": "INSERT",
+            "newValue": "BDL"
+        },
+        "contactStartDateTime": {
+            "operation": "INSERT",
+            "newValue": "2018-08-29T17:18:59.000+05:30"
+        },
+        "contractTitle": {
+            "operation": "INSERT",
+            "newValue": [
+                {
+                    "contractTitleLineType": "lgl_ttl_ln_1",
+                    "contractTitleLine": "Acosta Inc"
+                },
+                {
+                    "contractTitleLineType": "lgl_ttl_ln_2",
+                    "contractTitleLine": "David Walker"
+                }
+            ]
+        },
+        "taxIdentifier": {
+            "operation": "INSERT",
+            "newValue": {
+                "taxIdType": "SSP",
+                "taxId": "UJLN20870916345792"
+            }
+        },
+        "contractBranchCode": {
+            "operation": "INSERT",
+            "newValue": "WZTEGBTG"
+        },
+        "contractCountry": {
+            "operation": "INSERT",
+            "newValue": "Canada"
+        },
+        "partyRelations": [
+            {
+                "partyIdentifier": {
+                    "operation": "INSERT",
+                    "newValue": "9823462817"
+                },
+                "partyRelationshipType": {
+                    "operation": "INSERT",
+                    "newValue": "F-N"
+                },
+                "partyRelationStartDateTime": {
+                    "operation": "INSERT",
+                    "newValue": "2018-05-16T09:53:04.000+05:30"
+                },
+                "partyAddress": {
+                    "operation": "INSERT",
+                    "newValue": {
+                        "addressLine1": "251 Lee Tunnel",
+                        "addressLine2": "09795 Tara Station Suite 264",
+                        "addressCity": "New Michelleborough",
+                        "addressPostalCode": "05505",
+                        "addressCountry": "United States",
+                        "addressStartDate": "2019-04-20"
+                    }
+                }
+            },
+            {
+                "partyIdentifier": {
+                    "operation": "INSERT",
+                    "newValue": "9823462820"
+                },
+                "partyRelationshipType": {
+                    "operation": "INSERT",
+                    "newValue": "F-S"
+                },
+                "partyRelationStartDateTime": {
+                    "operation": "INSERT",
+                    "newValue": "2017-11-20T14:18:05.000+05:30"
+                }
+            },
+            {
+                "partyIdentifier": {
+                    "operation": "INSERT",
+                    "newValue": "9823462821"
+                },
+                "partyRelationshipType": {
+                    "operation": "INSERT",
+                    "newValue": "F-S"
+                },
+                "partyRelationStartDateTime": {
+                    "operation": "INSERT",
+                    "newValue": "2018-07-19T18:56:57.000+05:30"
+                }
+            }
+        ]
+    }
+}
